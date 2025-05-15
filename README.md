@@ -22,3 +22,7 @@ Explorar dados públicos da Agência Nacional do Cinema (ANCINE) para identifica
 
 ## Prints do Dashboard
 ![dashboard-filmes](https://github.com/henriquesilva0410/dashboard-filmes/blob/main/Captura%20de%20Tela%20(5).png?raw=true)
+
+---
+
+Projeto desenvolvido como parte do meu portfólio de entrada na área de Análise de Dados.
