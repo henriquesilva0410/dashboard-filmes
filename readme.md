@@ -19,7 +19,7 @@ Explorar dados públicos da Agência Nacional do Cinema (ANCINE) para identifica
 - Dataset disponivel no Kaggle: https://www.kaggle.com/datasets/pedrothiago/anlise-dos-filmes-exibidos-2009-a-2019
 
 ## Prints do Dashboard
-![dashboard-filmes](C:\Users\Henrique\OneDrive\Imagens\Screenshots\Captura de Tela (5).png) 
+![dashboard-filmes](https://github.com/henriquesilva0410/dashboard-filmes/blob/main/Captura%20de%20Tela%20(5).png?raw=true)
 
 ---
 
