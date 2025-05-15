@@ -25,4 +25,4 @@ Explorar dados públicos da Agência Nacional do Cinema (ANCINE) para identifica
 
 ---
 
-Projeto desenvolvido como parte do meu portfólio de entrada na área de Análise de Dados.
+*Projeto desenvolvido como parte do meu portfólio de entrada na área de Análise de Dados.*
