@@ -1,5 +1,5 @@
 # dashboard-filmes
-Dashboard em Power BI sobre a bilheteria de filmes entre 2009 e 2019
+DashBoard em Power BI sobre a bilheteria de filmes entre 2009 e 2019
 # Análise de Bilheteria de Filmes no Brasil (2009–2019)
 
 Este projeto apresenta uma análise visual e interativa da bilheteria de filmes exibidos no Brasil entre os anos de 2009 e 2019, com foco na arrecadação total, gêneros mais populares e o desempenho de produções nacionais e estrangeiras.
