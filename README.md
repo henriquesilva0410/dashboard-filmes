@@ -1,4 +1,4 @@
-# dashboard-filmes
+# Dashboard-Filmes
 DashBoard em Power BI sobre a bilheteria de filmes entre 2009 e 2019
 # Análise de Bilheteria de Filmes no Brasil (2009–2019)
 
